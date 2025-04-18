@@ -10,9 +10,12 @@ A simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - Clean and simple UI
 
 ## 📂 Project Structure
-
-tic-tac-toe/ │ ├── index.html # Main HTML file ├── style.css # Styling └── script.js # Game logic
-
+'''
+tic-tac-toe/ 
+  ├── index.html # Main HTML file 
+  ├── style.css # Styling 
+  └── script.js # Game logic
+'''
 ## 🛠️ Technologies Used
 
 - HTML5
